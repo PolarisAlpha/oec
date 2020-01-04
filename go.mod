@@ -12,10 +12,11 @@ require (
 	github.com/jbenet/go-context v0.0.0-20150711004518-d14ea06fba99
 	github.com/jmespath/go-jmespath v0.0.0-20180206201540-c2b33e8439af
 	github.com/kardianos/service v1.0.0
-	github.com/kevinburke/ssh_config v0.0.0-20190724205821-6cfae18c12b8
+	github.com/kevinburke/ssh_config v0.0.0-20190725054713-01f96b0aa0cd
 	github.com/konsorten/go-windows-terminal-sequences v1.0.2
 	github.com/matttproud/golang_protobuf_extensions v1.0.1
 	github.com/mitchellh/go-homedir v1.1.0
+	github.com/opsgenie/oec v0.0.0-20200109121658-08bc20a15334
 	github.com/pkg/errors v0.8.1
 	github.com/pmezard/go-difflib v1.0.0
 	github.com/prometheus/client_golang v1.1.0
